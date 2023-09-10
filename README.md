@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I’m Reza Kurnia. I'm over 2 year of experience junior web developer specializing in Backend Web Developer with php (Laravel) , Node JS, Golang (Gin). Informatics Engineering graduates with a comprehensive background and keep learning to improve my skill
+Hello! I’m Reza Kurnia. I'm over 4 year of experience junior web developer specializing in Backend Web Developer with php (Laravel) , Node JS, Golang (Gin). Informatics Engineering graduates with a comprehensive background and keep learning to improve my skill
 
 
 
